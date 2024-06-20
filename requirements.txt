@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+pytz
+matplotlib
+install click
